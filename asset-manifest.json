@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.560fe913.chunk.css",
+    "main.js": "/static/js/main.6e5833bd.chunk.js",
+    "main.js.map": "/static/js/main.6e5833bd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.aa271872.js",
+    "runtime-main.js.map": "/static/js/runtime-main.aa271872.js.map",
+    "static/js/2.8a01a629.chunk.js": "/static/js/2.8a01a629.chunk.js",
+    "static/js/2.8a01a629.chunk.js.map": "/static/js/2.8a01a629.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.481cc8423de8a2df492af0c8b7b65556.js": "/precache-manifest.481cc8423de8a2df492af0c8b7b65556.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.560fe913.chunk.css.map": "/static/css/main.560fe913.chunk.css.map",
+    "static/js/2.8a01a629.chunk.js.LICENSE.txt": "/static/js/2.8a01a629.chunk.js.LICENSE.txt",
+    "static/js/main.6e5833bd.chunk.js.LICENSE.txt": "/static/js/main.6e5833bd.chunk.js.LICENSE.txt",
+    "static/media/ms_sans_serif.woff2": "/static/media/ms_sans_serif.1d4d404a.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/static/media/ms_sans_serif_bold.cb1c7473.woff2",
+    "static/media/pokeball.png": "/static/media/pokeball.467430c7.png",
+    "static/media/windows95_startup_theme.mp3": "/static/media/windows95_startup_theme.7a56402d.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa271872.js",
+    "static/js/2.8a01a629.chunk.js",
+    "static/css/main.560fe913.chunk.css",
+    "static/js/main.6e5833bd.chunk.js"
+  ]
+}
