@@ -18,5 +18,6 @@ export const roundOff = num => Math.round((num + Number.EPSILON) * 100) / 100;
 export const startupSound = () => {
   return new Howl({
     src: [require('../assets/windows95_startup_theme.mp3')],
+    volume: .05
   });
 };
