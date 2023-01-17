@@ -1,7 +1,7 @@
 {
   "name": "pokedex95",
   "version": "0.1.0",
-  "homepage": "jpegpink.github.io/Pokedex95",  
+  "homepage": "https://jpegpink.github.io/Pokedex95",  
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
