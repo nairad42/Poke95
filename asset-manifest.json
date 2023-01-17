@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.560fe913.chunk.css",
-    "main.js": "/static/js/main.6e5833bd.chunk.js",
-    "main.js.map": "/static/js/main.6e5833bd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.aa271872.js",
-    "runtime-main.js.map": "/static/js/runtime-main.aa271872.js.map",
-    "static/js/2.8a01a629.chunk.js": "/static/js/2.8a01a629.chunk.js",
-    "static/js/2.8a01a629.chunk.js.map": "/static/js/2.8a01a629.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.481cc8423de8a2df492af0c8b7b65556.js": "/precache-manifest.481cc8423de8a2df492af0c8b7b65556.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.560fe913.chunk.css.map": "/static/css/main.560fe913.chunk.css.map",
-    "static/js/2.8a01a629.chunk.js.LICENSE.txt": "/static/js/2.8a01a629.chunk.js.LICENSE.txt",
-    "static/js/main.6e5833bd.chunk.js.LICENSE.txt": "/static/js/main.6e5833bd.chunk.js.LICENSE.txt",
-    "static/media/ms_sans_serif.woff2": "/static/media/ms_sans_serif.1d4d404a.woff2",
-    "static/media/ms_sans_serif_bold.woff2": "/static/media/ms_sans_serif_bold.cb1c7473.woff2",
-    "static/media/pokeball.png": "/static/media/pokeball.467430c7.png",
-    "static/media/windows95_startup_theme.mp3": "/static/media/windows95_startup_theme.7a56402d.mp3"
+    "main.css": "/jpegpink.github.io/static/css/main.560fe913.chunk.css",
+    "main.js": "/jpegpink.github.io/static/js/main.e2f130e4.chunk.js",
+    "main.js.map": "/jpegpink.github.io/static/js/main.e2f130e4.chunk.js.map",
+    "runtime-main.js": "/jpegpink.github.io/static/js/runtime-main.a2f6ddc0.js",
+    "runtime-main.js.map": "/jpegpink.github.io/static/js/runtime-main.a2f6ddc0.js.map",
+    "static/js/2.eef37ce4.chunk.js": "/jpegpink.github.io/static/js/2.eef37ce4.chunk.js",
+    "static/js/2.eef37ce4.chunk.js.map": "/jpegpink.github.io/static/js/2.eef37ce4.chunk.js.map",
+    "index.html": "/jpegpink.github.io/index.html",
+    "precache-manifest.b23356a73af77717d9f078957e7686a9.js": "/jpegpink.github.io/precache-manifest.b23356a73af77717d9f078957e7686a9.js",
+    "service-worker.js": "/jpegpink.github.io/service-worker.js",
+    "static/css/main.560fe913.chunk.css.map": "/jpegpink.github.io/static/css/main.560fe913.chunk.css.map",
+    "static/js/2.eef37ce4.chunk.js.LICENSE.txt": "/jpegpink.github.io/static/js/2.eef37ce4.chunk.js.LICENSE.txt",
+    "static/js/main.e2f130e4.chunk.js.LICENSE.txt": "/jpegpink.github.io/static/js/main.e2f130e4.chunk.js.LICENSE.txt",
+    "static/media/ms_sans_serif.woff2": "/jpegpink.github.io/static/media/ms_sans_serif.1d4d404a.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/jpegpink.github.io/static/media/ms_sans_serif_bold.cb1c7473.woff2",
+    "static/media/pokeball.png": "/jpegpink.github.io/static/media/pokeball.467430c7.png",
+    "static/media/windows95_startup_theme.mp3": "/jpegpink.github.io/static/media/windows95_startup_theme.7a56402d.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.aa271872.js",
-    "static/js/2.8a01a629.chunk.js",
+    "static/js/runtime-main.a2f6ddc0.js",
+    "static/js/2.eef37ce4.chunk.js",
     "static/css/main.560fe913.chunk.css",
-    "static/js/main.6e5833bd.chunk.js"
+    "static/js/main.e2f130e4.chunk.js"
   ]
 }
