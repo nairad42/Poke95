@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/jpegpink.github.io/static/css/main.560fe913.chunk.css",
-    "main.js": "/jpegpink.github.io/static/js/main.e2f130e4.chunk.js",
-    "main.js.map": "/jpegpink.github.io/static/js/main.e2f130e4.chunk.js.map",
-    "runtime-main.js": "/jpegpink.github.io/static/js/runtime-main.a2f6ddc0.js",
-    "runtime-main.js.map": "/jpegpink.github.io/static/js/runtime-main.a2f6ddc0.js.map",
-    "static/js/2.eef37ce4.chunk.js": "/jpegpink.github.io/static/js/2.eef37ce4.chunk.js",
-    "static/js/2.eef37ce4.chunk.js.map": "/jpegpink.github.io/static/js/2.eef37ce4.chunk.js.map",
-    "index.html": "/jpegpink.github.io/index.html",
-    "precache-manifest.b23356a73af77717d9f078957e7686a9.js": "/jpegpink.github.io/precache-manifest.b23356a73af77717d9f078957e7686a9.js",
-    "service-worker.js": "/jpegpink.github.io/service-worker.js",
-    "static/css/main.560fe913.chunk.css.map": "/jpegpink.github.io/static/css/main.560fe913.chunk.css.map",
-    "static/js/2.eef37ce4.chunk.js.LICENSE.txt": "/jpegpink.github.io/static/js/2.eef37ce4.chunk.js.LICENSE.txt",
-    "static/js/main.e2f130e4.chunk.js.LICENSE.txt": "/jpegpink.github.io/static/js/main.e2f130e4.chunk.js.LICENSE.txt",
-    "static/media/ms_sans_serif.woff2": "/jpegpink.github.io/static/media/ms_sans_serif.1d4d404a.woff2",
-    "static/media/ms_sans_serif_bold.woff2": "/jpegpink.github.io/static/media/ms_sans_serif_bold.cb1c7473.woff2",
-    "static/media/pokeball.png": "/jpegpink.github.io/static/media/pokeball.467430c7.png",
-    "static/media/windows95_startup_theme.mp3": "/jpegpink.github.io/static/media/windows95_startup_theme.7a56402d.mp3"
+    "main.css": "/jpegpink.github.io/Pokedex95/static/css/main.560fe913.chunk.css",
+    "main.js": "/jpegpink.github.io/Pokedex95/static/js/main.7de7f016.chunk.js",
+    "main.js.map": "/jpegpink.github.io/Pokedex95/static/js/main.7de7f016.chunk.js.map",
+    "runtime-main.js": "/jpegpink.github.io/Pokedex95/static/js/runtime-main.837722dd.js",
+    "runtime-main.js.map": "/jpegpink.github.io/Pokedex95/static/js/runtime-main.837722dd.js.map",
+    "static/js/2.590e390c.chunk.js": "/jpegpink.github.io/Pokedex95/static/js/2.590e390c.chunk.js",
+    "static/js/2.590e390c.chunk.js.map": "/jpegpink.github.io/Pokedex95/static/js/2.590e390c.chunk.js.map",
+    "index.html": "/jpegpink.github.io/Pokedex95/index.html",
+    "precache-manifest.836e44ac36c68da2f89b6d53d244f960.js": "/jpegpink.github.io/Pokedex95/precache-manifest.836e44ac36c68da2f89b6d53d244f960.js",
+    "service-worker.js": "/jpegpink.github.io/Pokedex95/service-worker.js",
+    "static/css/main.560fe913.chunk.css.map": "/jpegpink.github.io/Pokedex95/static/css/main.560fe913.chunk.css.map",
+    "static/js/2.590e390c.chunk.js.LICENSE.txt": "/jpegpink.github.io/Pokedex95/static/js/2.590e390c.chunk.js.LICENSE.txt",
+    "static/js/main.7de7f016.chunk.js.LICENSE.txt": "/jpegpink.github.io/Pokedex95/static/js/main.7de7f016.chunk.js.LICENSE.txt",
+    "static/media/ms_sans_serif.woff2": "/jpegpink.github.io/Pokedex95/static/media/ms_sans_serif.1d4d404a.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/jpegpink.github.io/Pokedex95/static/media/ms_sans_serif_bold.cb1c7473.woff2",
+    "static/media/pokeball.png": "/jpegpink.github.io/Pokedex95/static/media/pokeball.467430c7.png",
+    "static/media/windows95_startup_theme.mp3": "/jpegpink.github.io/Pokedex95/static/media/windows95_startup_theme.7a56402d.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2f6ddc0.js",
-    "static/js/2.eef37ce4.chunk.js",
+    "static/js/runtime-main.837722dd.js",
+    "static/js/2.590e390c.chunk.js",
     "static/css/main.560fe913.chunk.css",
-    "static/js/main.e2f130e4.chunk.js"
+    "static/js/main.7de7f016.chunk.js"
   ]
 }
