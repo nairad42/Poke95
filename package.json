@@ -1,7 +1,7 @@
 {
   "name": "poke95",
   "version": "0.2.0",
-  "homepage": "nairad42.github.io/pokedex95",  
+  "homepage": "/pokedex95",  
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
