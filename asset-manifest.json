@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/poke95/static/css/main.dad2e05d.chunk.css",
-    "main.js": "/poke95/static/js/main.d7a34232.chunk.js",
-    "main.js.map": "/poke95/static/js/main.d7a34232.chunk.js.map",
-    "runtime-main.js": "/poke95/static/js/runtime-main.f816bb67.js",
-    "runtime-main.js.map": "/poke95/static/js/runtime-main.f816bb67.js.map",
-    "static/js/2.1b16e1a2.chunk.js": "/poke95/static/js/2.1b16e1a2.chunk.js",
-    "static/js/2.1b16e1a2.chunk.js.map": "/poke95/static/js/2.1b16e1a2.chunk.js.map",
-    "index.html": "/poke95/index.html",
-    "precache-manifest.d87df6136a15b1c214f5fae677475e7f.js": "/poke95/precache-manifest.d87df6136a15b1c214f5fae677475e7f.js",
-    "service-worker.js": "/poke95/service-worker.js",
-    "static/css/main.dad2e05d.chunk.css.map": "/poke95/static/css/main.dad2e05d.chunk.css.map",
-    "static/js/2.1b16e1a2.chunk.js.LICENSE.txt": "/poke95/static/js/2.1b16e1a2.chunk.js.LICENSE.txt",
-    "static/js/main.d7a34232.chunk.js.LICENSE.txt": "/poke95/static/js/main.d7a34232.chunk.js.LICENSE.txt",
-    "static/media/ms_sans_serif.woff2": "/poke95/static/media/ms_sans_serif.1d4d404a.woff2",
-    "static/media/ms_sans_serif_bold.woff2": "/poke95/static/media/ms_sans_serif_bold.cb1c7473.woff2",
-    "static/media/pokeball.png": "/poke95/static/media/pokeball.467430c7.png",
-    "static/media/windows95_startup_theme.mp3": "/poke95/static/media/windows95_startup_theme.7a56402d.mp3"
+    "main.css": "/nairad42.github.io/Poke95/static/css/main.dad2e05d.chunk.css",
+    "main.js": "/nairad42.github.io/Poke95/static/js/main.3b4572e5.chunk.js",
+    "main.js.map": "/nairad42.github.io/Poke95/static/js/main.3b4572e5.chunk.js.map",
+    "runtime-main.js": "/nairad42.github.io/Poke95/static/js/runtime-main.856f8ea8.js",
+    "runtime-main.js.map": "/nairad42.github.io/Poke95/static/js/runtime-main.856f8ea8.js.map",
+    "static/js/2.7913bd1c.chunk.js": "/nairad42.github.io/Poke95/static/js/2.7913bd1c.chunk.js",
+    "static/js/2.7913bd1c.chunk.js.map": "/nairad42.github.io/Poke95/static/js/2.7913bd1c.chunk.js.map",
+    "index.html": "/nairad42.github.io/Poke95/index.html",
+    "precache-manifest.36ffe1ed592c3b4946b7fedf13824940.js": "/nairad42.github.io/Poke95/precache-manifest.36ffe1ed592c3b4946b7fedf13824940.js",
+    "service-worker.js": "/nairad42.github.io/Poke95/service-worker.js",
+    "static/css/main.dad2e05d.chunk.css.map": "/nairad42.github.io/Poke95/static/css/main.dad2e05d.chunk.css.map",
+    "static/js/2.7913bd1c.chunk.js.LICENSE.txt": "/nairad42.github.io/Poke95/static/js/2.7913bd1c.chunk.js.LICENSE.txt",
+    "static/js/main.3b4572e5.chunk.js.LICENSE.txt": "/nairad42.github.io/Poke95/static/js/main.3b4572e5.chunk.js.LICENSE.txt",
+    "static/media/ms_sans_serif.woff2": "/nairad42.github.io/Poke95/static/media/ms_sans_serif.1d4d404a.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/nairad42.github.io/Poke95/static/media/ms_sans_serif_bold.cb1c7473.woff2",
+    "static/media/pokeball.png": "/nairad42.github.io/Poke95/static/media/pokeball.467430c7.png",
+    "static/media/windows95_startup_theme.mp3": "/nairad42.github.io/Poke95/static/media/windows95_startup_theme.7a56402d.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.f816bb67.js",
-    "static/js/2.1b16e1a2.chunk.js",
+    "static/js/runtime-main.856f8ea8.js",
+    "static/js/2.7913bd1c.chunk.js",
     "static/css/main.dad2e05d.chunk.css",
-    "static/js/main.d7a34232.chunk.js"
+    "static/js/main.3b4572e5.chunk.js"
   ]
 }
